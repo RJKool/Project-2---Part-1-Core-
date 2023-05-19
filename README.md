@@ -1,5 +1,7 @@
 # **STROKE PREDICTION DETAILS**
 
+[JUMP TO NOTEBOOK HERE IN GITHUB](https://github.com/RJKool/Project-2---Part-1-Core-/blob/main/STROKE%20PREDICTION.ipynb)
+
 ## **Source of data**
 This dataset was pulled from KAGGLE.COM (https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 

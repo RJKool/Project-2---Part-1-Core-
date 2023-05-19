@@ -1,6 +1,6 @@
 # **STROKE PREDICTION DETAILS**
 
-[JUMP TO NOTEBOOK HERE IN GITHUB](https://github.com/RJKool/Project-2---Part-1-Core-/blob/main/STROKE%20PREDICTION.ipynb)
+**[JUMP TO STROKE PREDICTION NOTEBOOK HERE IN GITHUB](https://github.com/RJKool/Project-2---Part-1-Core-/blob/main/STROKE%20PREDICTION.ipynb)**
 
 ## **Source of data**
 This dataset was pulled from KAGGLE.COM (https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
@@ -45,6 +45,8 @@ Hopefully the dataset will not have any missing values.  I will properly correct
 ---
 
 # **SPANISH WINE QUALITY**
+
+**[JUMP TO WINE QUALITY NOTEBOOK HERE IN GITHUB](https://github.com/RJKool/Project-2---Part-1-Core-/tree/main)**
 
 ## **Source of data**
 This dataset was pulled from KAGGLE.COM (https://www.kaggle.com/datasets/fedesoriano/spanish-wine-quality-dataset)
